@@ -1,7 +1,10 @@
-import Form from "@/components/Form";
+import Form from "@/components/Form"
+import { Suspense } from "react"
 
 export default function Profile() {
     return (
-        <Form />
+        <Suspense>
+            <Form />
+        </Suspense>
     )
 }
