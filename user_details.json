@@ -1,0 +1,29 @@
+{
+    "firstName": "Ian",
+    "lastName": "Olmstead",
+    "email": "ianolmstead1991@gmail.com",
+    "employer": "Jane Doe",
+    "userName": "iolmstead23",
+    "education": "Hawkeye",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "country": [
+        ""
+    ],
+    "state": "",
+    "city": "Ely",
+    "zip": 0,
+    "skills": "MAD SKILLS",
+    "companyName_1": "Google",
+    "startDate_1": "",
+    "endDate_1": "",
+    "companyName_2": "",
+    "startDate_2": "",
+    "endDate_2": "",
+    "companyName_3": "",
+    "startDate_3": "",
+    "endDate_3": "",
+    "region": "F",
+    "postal-code": ""
+}
