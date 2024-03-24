@@ -2,13 +2,6 @@ import React from 'react';
 
 const PageComponent: React.FC = () => {
   return (
-<<<<<<< HEAD
-    <div className="p-10" >
-      This is where the landing page will go!
-    </div>
-  )
-}
-=======
     <div className="min-h-screen bg-black text-white p-8">
       <header className="flex justify-between items-center py-4">
         <div className="text-white text-lg font-bold">LOGO</div>
@@ -39,4 +32,3 @@ const PageComponent: React.FC = () => {
 };
 
 export default PageComponent;
->>>>>>> 12d75b882a2d2808ee3e495189e356db2136fd1c
